@@ -22,6 +22,7 @@
 		27774EF91F2C588600F11C47 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		27774EFC1F2C588600F11C47 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		27774EFE1F2C588600F11C47 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		27774F041F2C718300F11C47 /* Pic05.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Pic05.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 				27774EF91F2C588600F11C47 /* Assets.xcassets */,
 				27774EFB1F2C588600F11C47 /* LaunchScreen.storyboard */,
 				27774EFE1F2C588600F11C47 /* Info.plist */,
+				27774F041F2C718300F11C47 /* Pic05.png */,
 			);
 			path = NavigationBarProperty;
 			sourceTree = "<group>";
